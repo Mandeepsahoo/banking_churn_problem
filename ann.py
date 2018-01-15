@@ -1,7 +1,5 @@
 # Artificial Neural Network
 
-# Installing Keras
-# pip install --upgrade keras
 
 # Part 1 - Data Preprocessing
 #new
